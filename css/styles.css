@@ -43,3 +43,7 @@ header h2 {
     margin-left: 15px;
 }
 
+#removedesign {
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+}
