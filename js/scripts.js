@@ -12,3 +12,11 @@ $(function() {
         }
     });
 });
+
+$('#reserveButton').click(function(){
+    $('#reserveCampsite').modal('show');
+});
+
+$('#loginButton').click(function(){
+    $('#loginModal').modal('show');
+});
